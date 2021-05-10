@@ -6,6 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ICC3103-202110/laboratorio-04-swinburncarlos.git"
+  },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ICC3103-202110/laboratorio-04-swinburncarlos/issues"
+  },
+  "homepage": "https://github.com/ICC3103-202110/laboratorio-04-swinburncarlos#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
